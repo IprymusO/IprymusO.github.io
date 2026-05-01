@@ -1,6 +1,6 @@
 // ====== Ustaw tutaj datę startu (format ISO) ======
 // Przykład: '2022-05-01T12:00:00' lub '2024-12-31T00:00:00'
-const targetDateISO = '2026-04-28T22:35:00';
+const targetDateISO = '2026-05-01T12:20:00';
 
 // ====== Nie musisz nic więcej zmieniać poniżej ======
 const targetDate = new Date(targetDateISO);
